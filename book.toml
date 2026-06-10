@@ -1,0 +1,8 @@
+[book]
+authors = ["Igor Cardoso"]
+language = "pt"
+src = "src"
+title = "Mitos e Verdades"
+
+[output.html]
+additional-js = ["admonitions-pt.js"]
