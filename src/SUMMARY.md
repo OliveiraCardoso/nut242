@@ -1,6 +1,7 @@
 # Summary
 
-- [Intro](./intro.md)
+- [Capa](./cover.md)
+- [Introdução](./intro.md)
 
 # Verdades
 
