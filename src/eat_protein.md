@@ -3,8 +3,8 @@
 > [!IMPORTANT]
 > **O que acontece logo após comer proteína (Curto Prazo)**
 >
-> - **Inibição do apetite**: Rediz a fome, a vontade de comer e a percepção de quanta comida você ainda conseguiria aguentar.
-> - **Aumento da saciedade**: Prolonga a sensação de estar satisfeito("cheio").
+> - **Inibição do apetite**: Reduz a fome, a vontade de comer e a percepção de quanta comida você ainda conseguiria aguentar.
+> - **Aumento da saciedade**: Prolonga a sensação de estar satisfeito ("cheio").
 
 > [!NOTE]
 > **Os hormônios em ação**
